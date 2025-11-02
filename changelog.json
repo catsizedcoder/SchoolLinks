@@ -1,0 +1,31 @@
+{
+  "version": "3.1.2",
+  "title": "What's New",
+  "sections": [
+    {
+      "title": "New Features",
+      "items": [
+        "Added Changelog popup",
+        "New logos for SchoolLinks",
+        "New Readme.md",
+        "Made a discord server for the site"
+      ]
+    },
+    {
+      "title": "Improvements",
+      "items": [
+        "Added Contributor Descriptions in descriptions.txt",
+        "Revamped Submit Page & Thank you page.",
+        "Changed Theme to default until I make a thanksgiving theme.",
+        "Added futureplans.md"
+      ]
+    },
+    {
+      "title": "Bug Fixes",
+      "items": [
+        "Removed Cookie Clicker due to being broken (will be added back at a later date)",
+        "Removed broken hit counter"
+      ]
+    }
+  ]
+}
