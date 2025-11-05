@@ -2,80 +2,130 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Submit a Game - SchoolLinks</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Submit a Game - SchoolLinks</title>
 
-  <link href="https://fonts.googleapis.com/css?family=Exo:400,700" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Exo:400,700"
+      rel="stylesheet"
+    />
 
-  <link rel="stylesheet" type="text/css" href="css/circles.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="stylesheet" type="text/css" href="css/colors.css">
-  <link rel="stylesheet" type="text/css" href="css/halloween.css">
-</head>
+    <link rel="stylesheet" type="text/css" href="css/circles.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/colors.css" />
+    <link rel="stylesheet" type="text/css" href="css/halloween.css" />
+  </head>
 
-<body>
-  <div class="context">
-    <h6><a href="/index.html">Return Home</a></h6>
-    
-    <h1>Submit a Game</h1>
+  <body>
+    <div class="context">
+      <h6><a href="/index.html">Return Home</a></h6>
 
-    <h6>
-      The game does NOT have to be made by you. It can be any fun, interactive web program.<br><br>
-      Only HTML5, WebAssembly, and WebGL games are currently supported.
-    </h6>
-
-    <form target="_blank" action="https://formspree.io/f/mnnarlyp" method="POST">
-      <h2>Required</h2>
-
-      <h6>Username (max. 25 characters)</h6>
-      <input maxlength="25" type="text" name="username" class="form-control" required />
-
-      <h6>Game Title (max. 60 characters)</h6>
-      <input maxlength="60" type="text" name="gametitle" class="form-control" required />
-      <small>Feel free to add “HACKED” or “for PC” if applicable, but keep titles concise.</small>
-
-      <h6>Developer of Game</h6>
-      <input maxlength="50" type="text" name="devname" class="form-control" required />
-      <small>If unknown, type “*unknown*”.</small>
-
-      <h6>Link to Game / Game Files</h6>
-      <input maxlength="2048" type="text" name="gamelink" class="form-control" required />
-      <small>
-        If you need to host files, try sites like anonfiles.com, filechan.org, or letsupload.cc.
-      </small>
-
-      <h2>Optional</h2>
-      <h6>Description or Instructions</h6>
-      <textarea maxlength="500" name="descriptionorinstructions" class="form-control">
-Feel free to write instructions, controls, or a brief description of your game here...
-      </textarea>
+      <h1>Submit a Game</h1>
 
       <h6>
-        To bypass these limits for special games, email us at: mathgames66 [[at]] mail [[dot]] com
+        The game does NOT have to be made by you. It can be any fun, interactive
+        web program.<br /><br />
+        Only HTML5, WebAssembly, and WebGL games are currently supported.
       </h6>
 
-      <h3>
-        <button type="submit">Submit Game</button>
-      </h3>
+      <form
+        target="_blank"
+        action="https://formspree.io/f/mnnarlyp"
+        method="POST"
+      >
+        <h2>Required</h2>
 
-      <h3>
-        After submitting, you may see a CAPTCHA confirmation—this is normal and just to prevent bots.
-      </h3>
+        <h6>Username (max. 25 characters)</h6>
+        <input
+          maxlength="25"
+          type="text"
+          name="username"
+          class="form-control"
+          required
+        />
 
-      <input type="hidden" name="_next" value="/thankyou.html" />
-    </form>
+        <h6>Game Title (max. 60 characters)</h6>
+        <input
+          maxlength="60"
+          type="text"
+          name="gametitle"
+          class="form-control"
+          required
+        />
+        <small
+          >Feel free to add “HACKED” or “for PC” if applicable, but keep titles
+          concise.</small
+        >
 
-    <br>
-  </div>
+        <h6>Developer of Game</h6>
+        <input
+          maxlength="50"
+          type="text"
+          name="devname"
+          class="form-control"
+          required
+        />
+        <small>If unknown, type “*unknown*”.</small>
 
-  <div class="area">
-    <ul class="circles">
-      <li></li><li></li><li></li><li></li><li></li>
-      <li></li><li></li><li></li><li></li><li></li>
-    </ul>
-  </div>
+        <h6>Link to Game / Game Files</h6>
+        <input
+          maxlength="2048"
+          type="text"
+          name="gamelink"
+          class="form-control"
+          required
+        />
+        <small>
+          If you need to host files, try sites like anonfiles.com, filechan.org,
+          or letsupload.cc.
+        </small>
 
-</body>
+        <h2>Optional</h2>
+        <h6>Description or Instructions</h6>
+        <textarea
+          maxlength="500"
+          name="descriptionorinstructions"
+          class="form-control"
+        >
+Feel free to write instructions, controls, or a brief description of your game here...
+      </textarea
+        >
+
+        <h6>
+          To bypass these limits for special games, email us at: mathgames66
+          [[at]] mail [[dot]] com
+        </h6>
+
+        <h3>
+          <button type="submit">Submit Game</button>
+        </h3>
+
+        <h3>
+          After submitting, you may see a CAPTCHA confirmation—this is normal
+          and just to prevent bots.
+        </h3>
+
+        <input type="hidden" name="_next" value="/thankyou.html" />
+      </form>
+
+      <br />
+    </div>
+
+    <div class="area">
+      <ul class="circles">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
+  </body>
 </html>
