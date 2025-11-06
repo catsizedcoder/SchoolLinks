@@ -1421,36 +1421,6 @@
     "thumbnailURL": "erasebox.png"
   },
   {
-    "name": "exiledzombies",
-    "dispName": "Exiled Zombies",
-    "description": "Welcome to the underworld full of zombies, who plan to exile you for an eternity! So, your job is to shoot all zombies around, survive for the next area, and compete with your highest shooting score. The only rule in Exiled Zombies is not to be eaten and stay alive as long as possible! ",
-    "siteTags": ["HTML5", "3d", "1 player", "fps", "shooter", "zombie"],
-    "metaTags": [
-      "math games 66",
-      "mathgames66",
-      "unblocked",
-      "online",
-      "free",
-      "games",
-      "game",
-      "interactive",
-      "HTML5"
-    ],
-    "series": null,
-    "isMobile": false,
-    "creator": "*unknown*",
-    "uploader": "TheDiamondfinder",
-    "pageData": {
-      "isFrame": "iframe",
-      "attributes": {
-        "src": "../games/html5/exiled_zombies",
-        "style": "min-width: 960px; min-height: 635px; "
-      }
-    },
-    "url": "exiledzombies",
-    "thumbnailURL": "exiled-zombies.jpg"
-  },
-  {
     "name": "factoryballsforever",
     "dispName": "Factory Balls Forever",
     "description": "",
