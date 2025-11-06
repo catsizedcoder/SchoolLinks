@@ -23,7 +23,7 @@ python3 -m http.server
 
 ### Production
 
-You should use a better static site server such as [NGINX](https://nginx.org/) or [Apache](https://httpd.apache.org/), but It can run on [Github Pages](https://docs.github.com/en/pages)/[Cloudflare Pages (which it currently runs on)](https://pages.cloudflare.com/) with a much more simple workflow
+You should use a better static site server such as [NGINX](https://nginx.org/) or [Apache](https://httpd.apache.org/), but It can run on [Github Pages](https://docs.github.com/en/pages) and [Cloudflare Pages (which it currently runs on)](https://pages.cloudflare.com/) with a much more simple workflow
 
 ### Where to get help?
 
