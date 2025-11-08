@@ -1,5 +1,6 @@
 ## This file details future plans/ideas for the site.
 ------------------------------------------------------
+
 - Remove Broken Games.
 
 - Add More Games.
@@ -28,6 +29,10 @@ This would speed up production as pages wouldn't be regenerated.
 - Move Games/Thumbnails to a seperate repository in order to speed up deploy times.
 
 - Make a vercel quick deploy option
+
+- Add Gzip Compression to games
+
+- Make pages build dynamically via each commit/on runtime to save space
 
 --------------------------------------------------------
 
