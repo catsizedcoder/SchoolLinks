@@ -1,5 +1,4 @@
 ## This file details future plans/ideas for the site.
-------------------------------------------------------
 
 - Remove Broken Games.
 
