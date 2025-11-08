@@ -5,7 +5,7 @@
     {
       "title": "New Features",
       "items": [
-        "No new features this update! Stay tuned",
+        "No new features this update! Stay tuned"
       ]
     },
     {
@@ -19,7 +19,8 @@
       "title": "Bug Fixes",
       "items": [
         "Removed Cavewars due to filesize being too big (can possibly be added back if requested)",
-        "Removed Exiled Zombies due to filesize being too big (can possibly be added back if requested)",
-      ],
+        "Removed Exiled Zombies due to filesize being too big (can possibly be added back if requested)"
+      ]
+    }
   ]
 }
