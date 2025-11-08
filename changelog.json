@@ -1,31 +1,25 @@
 {
-  "version": "3.1.2",
+  "version": "3.1.3",
   "title": "What's New",
   "sections": [
     {
       "title": "New Features",
       "items": [
-        "Added Changelog popup",
-        "New logos for SchoolLinks",
-        "New Readme.md",
-        "Made a discord server for the site"
+        "No new features this update! Stay tuned",
       ]
     },
     {
       "title": "Improvements",
       "items": [
-        "Added Contributor Descriptions in descriptions.txt",
-        "Revamped Submit Page & Thank you page.",
-        "Changed Theme to default until I make a thanksgiving theme.",
-        "Added futureplans.md"
+        "Switched to Cloudflare Pages for faster load times",
+        "Mass prettified site code for better readability"
       ]
     },
     {
       "title": "Bug Fixes",
       "items": [
-        "Removed Cookie Clicker due to being broken (will be added back at a later date)",
-        "Removed broken hit counter"
-      ]
-    }
+        "Removed Cavewars due to filesize being too big (can possibly be added back if requested)",
+        "Removed Exiled Zombies due to filesize being too big (can possibly be added back if requested)",
+      ],
   ]
 }
