@@ -1,37 +1,37 @@
 ## This file details future plans/ideas for the site.
 
-- Remove Broken Games.
+1. Remove Broken Games.
 
-- Add More Games.
+2. Add More Games.
 
-- Add A Dedicated Site Chatroom.
+3.  Add A Dedicated Site Chatroom.
 
-- Make An Unblocker Section.
+4.  Make An Unblocker Section.
 
-- Make The UI/UX Better.
+5.  Make The UI/UX Better.
 
-- Make The Site More Optimized By Minimizing/Simplifying The Old Code.
+6.  Make The Site More Optimized By Minimizing/Simplifying The Old Code.
 
-- Make A Dynamic Game Page that loads games based on URL query params (Ex: /game?1v1.lol Or /p?jellytruck)
+7. Make A Dynamic Game Page that loads games based on URL query params (Ex: /game?1v1.lol Or /p?jellytruck)
 This would speed up production as pages wouldn't be regenerated.
 
-- Fix Sitemap.
+8. Fix Sitemap.
 
-- Get A Custom Domain.
+9. Get A Custom Domain.
 
-- Make A better readme.md.
+10. Make A better readme.md.
 
-- make it so all hyperlinks are highlighted by default and just use a diff class for no highlight.
+11. Make it so all hyperlinks are highlighted by default and just use a diff class for no highlight.
 
-- Make Daily secret use an api instead of manual commits.
+12. Make Daily secret use an api instead of manual commits.
 
-- Move Games/Thumbnails to a seperate repository in order to speed up deploy times.
+13. Move Games/Thumbnails to a seperate repository in order to speed up deploy times.
 
-- Make a vercel quick deploy option
+14. Make a vercel quick deploy option
 
-- Add Gzip Compression to games
+15. Add Gzip Compression to site and its assets
 
-- Make pages build dynamically via each commit/on runtime to save space
+16. Make pages build dynamically via each commit/on runtime to save space (likely will tie in after/with #7)
 
 --------------------------------------------------------
 
