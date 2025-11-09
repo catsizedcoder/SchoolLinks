@@ -12,7 +12,8 @@
       "title": "Improvements",
       "items": [
         "Switched to Cloudflare Pages for faster load times",
-        "Mass prettified site code for better readability"
+        "Mass prettified site code for better readability",
+        "Optimized/Resized Majority of images for qucker load times "
       ]
     },
     {
