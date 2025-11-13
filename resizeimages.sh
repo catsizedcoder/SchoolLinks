@@ -1,6 +1,8 @@
 #!/bin/bash
 # AVIR - Image Resizing to 4:3 Aspect Ratio
 # Recursively resizes all images in a folder (SchoolLinks uses this to optimize game thumbnails for quicker load speeds)
+# This script requires https://github.com/avaneev/avir linux binary to be in the same dir named "avir" in order to run
+
 
 INPUT_DIR="${1:-.}"
 OUTPUT_SUFFIX=""

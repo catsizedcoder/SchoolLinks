@@ -1,3 +1,5 @@
+// [ Dynamically fetches the changelog and shows popup if a new version has been made or it is the users first time visiting ]
+
 (function () {
   async function loadChangelog() {
     try {
