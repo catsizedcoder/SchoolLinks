@@ -16,7 +16,7 @@
 ### Development
 
 ```bash
-git clone https://github.com/AnonymousElixir/SchoolLinks.git
+git clone https://github.com/catsizedcoder/SchoolLinks.git
 cd SchoolLinks
 python3 -m http.server
 ```
